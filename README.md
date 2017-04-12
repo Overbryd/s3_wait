@@ -2,6 +2,8 @@
 
 Wait for S3 keys, then issue a redirect to a presigned url if they exist.
 
+![](https://cdn.shutterstock.com/shutterstock/videos/955447/thumb/1.jpg?i10c=img.resize(height:160))
+
 ## Pattern
 
 In your application you create S3 objects in the **background** instead of the request-cycle.
